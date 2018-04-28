@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ce84a2c13a3cda14984e022775cff5c2
+timeCreated: 1509568663
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plaster
+  fontNames:
+  - Plaster
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

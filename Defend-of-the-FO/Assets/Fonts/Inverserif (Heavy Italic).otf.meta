@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 26dc9eab6dc67b24ab2d30c9a8c420e4
+timeCreated: 1509568271
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: OPTIIambic-HeavyItalic
+  fontNames:
+  - OPTIIambic-HeavyItalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

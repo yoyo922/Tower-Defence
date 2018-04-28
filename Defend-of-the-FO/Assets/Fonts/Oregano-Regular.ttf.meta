@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aa910061a407ac34e8e49933657c2ce8
+timeCreated: 1509568657
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oregano
+  fontNames:
+  - Oregano
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77f6de3b18c9a5546ab4a1d4f8dc917f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

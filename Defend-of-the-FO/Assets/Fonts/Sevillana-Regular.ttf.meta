@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 211bbf7ff295f994d9e9e4cc4259b34e
+timeCreated: 1509568588
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sevillana
+  fontNames:
+  - Sevillana
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

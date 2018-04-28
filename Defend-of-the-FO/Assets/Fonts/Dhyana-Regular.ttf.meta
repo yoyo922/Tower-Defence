@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b56864757bc69e4458212ade0eb5f249
+timeCreated: 1509568659
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dhyana
+  fontNames:
+  - Dhyana
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aeaae52b620c13a42bd623aca04e56ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

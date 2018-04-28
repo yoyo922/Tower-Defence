@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6790297019b9d3245b51af3cf029be21
+timeCreated: 1509568636
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chau Philomene One
+  fontNames:
+  - Chau Philomene One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2368a20926add1d438159f9081f5ddb7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

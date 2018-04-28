@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 480047236a084c54c937ce4168e788a6
+timeCreated: 1509568603
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thabit
+  fontNames:
+  - Thabit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e35de0313637dc4fa277c192dec86cc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

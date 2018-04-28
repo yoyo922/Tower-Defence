@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c224981bff2a4d344b0f975c3e42e223
+timeCreated: 1509568661
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Domine
+  fontNames:
+  - Domine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 891fb7e5da6c7b742b1a48bc862995ed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

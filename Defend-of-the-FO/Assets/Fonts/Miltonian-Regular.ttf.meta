@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5019ac4918c48c24e9dfee51ec5be313
+timeCreated: 1509568605
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Miltonian
+  fontNames:
+  - Miltonian
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

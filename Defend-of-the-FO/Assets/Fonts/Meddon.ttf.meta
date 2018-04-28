@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a50cdff6f4dead943b5af16eaebd7cfd
+timeCreated: 1509568655
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Meddon
+  fontNames:
+  - Meddon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

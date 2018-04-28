@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0295ca5ab32e51b47af18fc850b1d9b5
+timeCreated: 1509568573
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pontano Sans
+  fontNames:
+  - Pontano Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

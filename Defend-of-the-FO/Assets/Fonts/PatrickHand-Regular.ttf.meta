@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bb4bb6ef4adf18642a89f14071f1df36
+timeCreated: 1509568660
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Patrick Hand
+  fontNames:
+  - Patrick Hand
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5c5a87635c8f6014997d48aa36573a8e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 07e2f11d4d5dfb54ea1611d7756eac1d
+timeCreated: 1509568574
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shadows Into Light Two
+  fontNames:
+  - Shadows Into Light Two
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

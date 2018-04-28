@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e67f1e45aff69ce458bb8fc6ea2d91f1
+timeCreated: 1509568668
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chango
+  fontNames:
+  - Chango
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

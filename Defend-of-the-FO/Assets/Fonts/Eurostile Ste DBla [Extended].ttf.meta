@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 31eecf32bd9ee0440a34380b40e90d6d
+timeCreated: 1509568271
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EurostileSteDBlaExt
+  fontNames:
+  - EurostileSteDBlaExt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

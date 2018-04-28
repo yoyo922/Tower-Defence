@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f10ba41e42d8b9c41b46b3abb8e3df25
+timeCreated: 1509568669
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jacques Francois
+  fontNames:
+  - Jacques Francois
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

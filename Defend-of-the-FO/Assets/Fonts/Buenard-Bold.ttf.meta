@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dda6377fd079f904dac7dc564ab70d79
+timeCreated: 1509568666
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Buenard
+  fontNames:
+  - Buenard
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32f18c2abdac33b40afc0afcd219f1fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

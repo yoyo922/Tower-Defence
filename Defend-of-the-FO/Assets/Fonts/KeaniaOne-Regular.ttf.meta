@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ac44cefa4ea0e0a4bbf4d71cd636fa26
+timeCreated: 1509568657
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Keania One
+  fontNames:
+  - Keania One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6850850f000cab649a5c58373f1cba0a
+timeCreated: 1509568636
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oleo Script
+  fontNames:
+  - Oleo Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b77e6e61a9dfca42931349c736914a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

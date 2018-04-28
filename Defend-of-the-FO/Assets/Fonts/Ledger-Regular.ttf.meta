@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a0d39a0a82425bc499a0c57e5beb6414
+timeCreated: 1509568655
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ledger
+  fontNames:
+  - Ledger
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

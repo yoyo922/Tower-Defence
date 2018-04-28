@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 942ae4991043a264d9c9801c8fb2c776
+timeCreated: 1509568643
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tienne
+  fontNames:
+  - Tienne
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92c1d5318ae33f44e8b55ea3fed73588, type: 3}
+  - {fileID: 12800000, guid: 01ce7fc54e9af2e418dabb48c4b12179, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

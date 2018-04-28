@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aef3b168a3005844ab84892164181ac5
+timeCreated: 1509568658
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Euphoria Script
+  fontNames:
+  - Euphoria Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d525ac302afeaeb4f9dd44ce7384987e
+timeCreated: 1509568664
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Khmer
+  fontNames:
+  - Khmer
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

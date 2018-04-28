@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3f5153105661b434a809f3662388d057
+timeCreated: 1509568602
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fanwood Text
+  fontNames:
+  - Fanwood Text
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

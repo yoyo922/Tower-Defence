@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 03af2a9fd5b3b7549b8bbe0b41834ffb
+timeCreated: 1509568573
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rosario
+  fontNames:
+  - Rosario
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

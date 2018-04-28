@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0377ed0817f9d7e4a82d7cd881a03d97
+timeCreated: 1509568573
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spirax
+  fontNames:
+  - Spirax
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

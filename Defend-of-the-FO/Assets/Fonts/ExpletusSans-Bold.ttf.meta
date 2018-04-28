@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b0ebaeeccc1342e469a703631d774ea4
+timeCreated: 1509568658
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Expletus Sans
+  fontNames:
+  - Expletus Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0d63ea83413af4343aa8d242ace9032d, type: 3}
+  - {fileID: 12800000, guid: 2a79bdb3d66616f4a82dfc0f5d6e17f1, type: 3}
+  - {fileID: 12800000, guid: 8084c3277c096b24e83bb945c0852f60, type: 3}
+  - {fileID: 12800000, guid: 35ec386aaa0844440819856ed51643db, type: 3}
+  - {fileID: 12800000, guid: a5cdf6fb5e3cfef48a653d8fe083f50a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

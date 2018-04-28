@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7b7ab88e4517f5744953039b018d8a42
+timeCreated: 1509568271
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nightmare 5
+  fontNames:
+  - Nightmare 5
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

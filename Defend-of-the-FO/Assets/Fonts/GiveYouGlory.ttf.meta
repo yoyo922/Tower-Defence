@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 36b9997868b80cf45b327b23e4d9c5be
+timeCreated: 1509568601
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Give You Glory
+  fontNames:
+  - Give You Glory
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

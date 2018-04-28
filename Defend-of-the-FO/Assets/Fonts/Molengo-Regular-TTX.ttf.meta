@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e409a6286f678f74188c3f26c5b51b12
+timeCreated: 1509568667
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Molengo
+  fontNames:
+  - Molengo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92ce1a578144ab54a928724d89891ff7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

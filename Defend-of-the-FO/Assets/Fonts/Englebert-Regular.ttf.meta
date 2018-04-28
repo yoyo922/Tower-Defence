@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: beb9c5b866b62254ea4b167c996c2de9
+timeCreated: 1509568660
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Englebert
+  fontNames:
+  - Englebert
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

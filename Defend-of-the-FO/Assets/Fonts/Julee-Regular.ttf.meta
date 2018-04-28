@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6b78938e8aa8be4f83b5edc5a7f710f
+timeCreated: 1509568671
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Julee
+  fontNames:
+  - Julee
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

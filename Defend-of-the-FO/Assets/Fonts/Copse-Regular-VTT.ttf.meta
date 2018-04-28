@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c6857ca51f5d608489ef981e6cdb634c
+timeCreated: 1509568662
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Copse
+  fontNames:
+  - Copse
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01a8480819f1d2548b14b71ab5e44a1c, type: 3}
+  - {fileID: 12800000, guid: 0753dbfef142d8641941650fdf1de5e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

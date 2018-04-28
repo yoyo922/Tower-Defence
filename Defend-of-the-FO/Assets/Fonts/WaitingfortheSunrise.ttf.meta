@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 405b4796f9cc58b48b98ee7153bd2a8d
+timeCreated: 1509568602
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Waiting for the Sunrise
+  fontNames:
+  - Waiting for the Sunrise
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

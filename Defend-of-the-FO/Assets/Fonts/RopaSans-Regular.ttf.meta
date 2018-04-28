@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1358fdc522345f348a8255f279957757
+timeCreated: 1509568586
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ropa Sans
+  fontNames:
+  - Ropa Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0ea0ac077c451b244a1a9aaae6a8de7b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

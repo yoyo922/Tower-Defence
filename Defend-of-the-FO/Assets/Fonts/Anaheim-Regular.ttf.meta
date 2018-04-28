@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 84976a6ca9ac1e04eac50507138ef7cf
+timeCreated: 1509568641
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Anaheim
+  fontNames:
+  - Anaheim
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 37bda5bdbf24e2b4780d8001021d5a6b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

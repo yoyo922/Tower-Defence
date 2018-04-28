@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 878e6ccd6475f954f9f0fbf622e557b9
+timeCreated: 1509568641
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Merriweather Sans
+  fontNames:
+  - Merriweather Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 711d3765095c1b541aa25481e1d5e2cc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 146a49f6101025d49ae5255e751f8027
+timeCreated: 1509568586
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Advent Pro
+  fontNames:
+  - Advent Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

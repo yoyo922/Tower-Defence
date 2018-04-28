@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 79d6b1fbd3054bf459fbedbfd673fecf
+timeCreated: 1509568639
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Freckle Face
+  fontNames:
+  - Freckle Face
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

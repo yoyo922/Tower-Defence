@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0f84a859cc6195148b1369530a859a1c
+timeCreated: 1509568585
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Karla Tamil
+  fontNames:
+  - Karla Tamil
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 05a30a62edb1af84ababff3020dd5362, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

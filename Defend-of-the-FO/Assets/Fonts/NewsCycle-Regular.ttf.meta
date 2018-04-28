@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8369554140e7c654c82406416fa2d1a2
+timeCreated: 1509568640
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: News Cycle
+  fontNames:
+  - News Cycle
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4a1910f8b5abea949a5f1d579335e0d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

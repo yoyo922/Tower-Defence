@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 99af1bca66113c34c93c320eb133ee8d
+timeCreated: 1509568653
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pirata One
+  fontNames:
+  - Pirata One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

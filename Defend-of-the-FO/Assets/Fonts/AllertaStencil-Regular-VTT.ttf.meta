@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 62fc147955fb5d748bbb03bd22e31803
+timeCreated: 1509568625
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Allerta
+  fontNames:
+  - Allerta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 532d949c375be004891de58f0db84cc2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

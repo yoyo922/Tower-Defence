@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 337a3541db38d9a46b9e579a19ad3c9a
+timeCreated: 1509568600
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fasthand
+  fontNames:
+  - Fasthand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

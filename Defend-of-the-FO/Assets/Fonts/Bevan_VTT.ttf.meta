@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: dc61496f141c471439c3a080839b9a3e
+timeCreated: 1509568666
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bevan
+  fontNames:
+  - Bevan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b95dc0518317cb041a7c0868a58e1112, type: 3}
+  - {fileID: 12800000, guid: cf827182766ed9b45859e7e12bcf226a, type: 3}
+  - {fileID: 12800000, guid: 5b5a2fca9dd087248960483f4f53ae8a, type: 3}
+  - {fileID: 12800000, guid: a7e71e4d526c57046ae621a4a4e82c93, type: 3}
+  - {fileID: 12800000, guid: 9d68d3afa051d25418786012d2e20675, type: 3}
+  - {fileID: 12800000, guid: 72608baf1b806224e987f79f6de9c2e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 202c3e3b3ef87dc46825bf7d5ada0b85
+timeCreated: 1509568588
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ribeye
+  fontNames:
+  - Ribeye
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

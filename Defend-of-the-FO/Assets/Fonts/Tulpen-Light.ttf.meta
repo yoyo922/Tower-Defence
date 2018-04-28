@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a0a2587f4ff687547a7ce2b5135d8b8b
+timeCreated: 1509568655
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tulpen
+  fontNames:
+  - Tulpen
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

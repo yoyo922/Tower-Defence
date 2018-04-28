@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f247f31ae9b6fb845aaff03b576c578a
+timeCreated: 1509568669
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Judson
+  fontNames:
+  - Judson
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30607844598d941468fd8637210270da, type: 3}
+  - {fileID: 12800000, guid: aff5fdf4c7859dc4785b7c6924349356, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

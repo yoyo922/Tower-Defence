@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d8e56ab702799a74d8903e0fcf096a6e
+timeCreated: 1509568665
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Share-TechMonoExp
+  fontNames:
+  - Share-TechMonoExp
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

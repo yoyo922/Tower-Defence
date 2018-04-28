@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 91d1daa905a9e9b48b73cbcd28518887
+timeCreated: 1509568643
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rouge Script
+  fontNames:
+  - Rouge Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

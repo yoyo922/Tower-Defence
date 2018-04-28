@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 46ab8d1795c7caf439812f93752a925d
+timeCreated: 1509568603
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cantarell
+  fontNames:
+  - Cantarell
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3a0cfc6278239804cb5d762aa16d61db, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

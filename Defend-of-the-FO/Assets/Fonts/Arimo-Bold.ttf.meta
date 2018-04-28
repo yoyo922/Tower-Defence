@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e2944389911b69e4ca5c7c70afbf5345
+timeCreated: 1509568667
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arimo
+  fontNames:
+  - Arimo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b902a60688435ef4eb5c964ebd0de0d2, type: 3}
+  - {fileID: 12800000, guid: 09554c8dba6b4fd428338e0bda75bbc3, type: 3}
+  - {fileID: 12800000, guid: 6638a35f32632dd4f9a36027cebe601f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

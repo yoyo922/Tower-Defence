@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a6acc0226ea48e4ea225fe12ef90f38
+timeCreated: 1509568653
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Belleza
+  fontNames:
+  - Belleza
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a84b65b4f2b58d64f9a36c6866b5e8a7
+timeCreated: 1509568656
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cuprum
+  fontNames:
+  - Cuprum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3362f8bcf9157aa4db9885da79e8992c, type: 3}
+  - {fileID: 12800000, guid: 3d28106fdfb11134cb23dee0ebfbb8a8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

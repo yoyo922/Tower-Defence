@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 87fb673b031f0b240ac0e39fe34312be
+timeCreated: 1509568641
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nova Round
+  fontNames:
+  - Nova Round
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

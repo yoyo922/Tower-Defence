@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 232df62c33638ff48ab43ed1ca0b3896
+timeCreated: 1509568588
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Butcherman
+  fontNames:
+  - Butcherman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

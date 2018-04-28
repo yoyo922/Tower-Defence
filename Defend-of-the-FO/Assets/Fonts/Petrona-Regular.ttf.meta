@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4ce5059a0457aac4a9bba46e9cff5095
+timeCreated: 1509568604
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Petrona
+  fontNames:
+  - Petrona
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

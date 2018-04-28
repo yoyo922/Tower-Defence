@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a6e5d30e40bccb245a1e9e9f5795b431
+timeCreated: 1509568656
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PT Sans Caption
+  fontNames:
+  - PT Sans Caption
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6ed9bd351d1329f46916f29fce19a85e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

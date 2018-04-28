@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: c1083d7df2d19d94e9b88c2ddf6fdf72
+timeCreated: 1509568661
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PT Serif
+  fontNames:
+  - PT Serif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82964cc2396bc324c863d2e2b406cb1a, type: 3}
+  - {fileID: 12800000, guid: 0577ee6c225bc19418c420b76fd71277, type: 3}
+  - {fileID: 12800000, guid: 17feda4fcd4f2eb4eaf277f2924b7dfa, type: 3}
+  - {fileID: 12800000, guid: 56dbcf6fbbfe42d4f81f92a1d4ba399b, type: 3}
+  - {fileID: 12800000, guid: 2d704eafd323fa44ab4d0a26d81fe7fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

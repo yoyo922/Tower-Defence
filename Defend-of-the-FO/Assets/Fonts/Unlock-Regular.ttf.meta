@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0b5482f5ab4906c44a31998cf725214f
+timeCreated: 1509568585
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unlock
+  fontNames:
+  - Unlock
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

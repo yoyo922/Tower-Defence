@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7d4e65ac7e5022a40a79192cc382e63f
+timeCreated: 1509568639
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs Saint Delafield
+  fontNames:
+  - Mrs Saint Delafield
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 083435a3dcccca94586b62e7aa2ac5af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2445 @@
+fileFormatVersion: 2
+guid: e0b59a5ec4ae5f5428c973dfd706c52f
+timeCreated: 1511333198
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Balrog_0
+    21300002: Balrog_1
+    21300004: Balrog_2
+    21300006: Balrog_3
+    21300008: Balrog_4
+    21300010: Balrog_5
+    21300012: Balrog_6
+    21300014: Balrog_7
+    21300016: Balrog_8
+    21300018: Balrog_9
+    21300020: Balrog_10
+    21300022: Balrog_11
+    21300024: Balrog_12
+    21300026: Balrog_13
+    21300028: Balrog_14
+    21300030: Balrog_15
+    21300032: Balrog_16
+    21300034: Balrog_17
+    21300036: Balrog_18
+    21300038: Balrog_19
+    21300040: Balrog_20
+    21300042: Balrog_21
+    21300044: Balrog_22
+    21300046: Balrog_23
+    21300048: Balrog_24
+    21300050: Balrog_25
+    21300052: Balrog_26
+    21300054: Balrog_27
+    21300056: Balrog_28
+    21300058: Balrog_29
+    21300060: Balrog_30
+    21300062: Balrog_31
+    21300064: Balrog_32
+    21300066: Balrog_33
+    21300068: Balrog_34
+    21300070: Balrog_35
+    21300072: Balrog_36
+    21300074: Balrog_37
+    21300076: Balrog_38
+    21300078: Balrog_39
+    21300080: Balrog_40
+    21300082: Balrog_41
+    21300084: Balrog_42
+    21300086: Balrog_43
+    21300088: Balrog_44
+    21300090: Balrog_45
+    21300092: Balrog_46
+    21300094: Balrog_47
+    21300096: Balrog_48
+    21300098: Balrog_49
+    21300100: Balrog_50
+    21300102: Balrog_51
+    21300104: Balrog_52
+    21300106: Balrog_53
+    21300108: Balrog_54
+    21300110: Balrog_55
+    21300112: Balrog_56
+    21300114: Balrog_57
+    21300116: Balrog_58
+    21300118: Balrog_59
+    21300120: Balrog_60
+    21300122: Balrog_61
+    21300124: Balrog_62
+    21300126: Balrog_63
+    21300128: Balrog_64
+    21300130: Balrog_65
+    21300132: Balrog_66
+    21300134: Balrog_67
+    21300136: Balrog_68
+    21300138: Balrog_69
+    21300140: Balrog_70
+    21300142: Balrog_71
+    21300144: Balrog_72
+    21300146: Balrog_73
+    21300148: Balrog_74
+    21300150: Balrog_75
+    21300152: Balrog_76
+    21300154: Balrog_77
+    21300156: Balrog_78
+    21300158: Balrog_79
+    21300160: Balrog_80
+    21300162: Balrog_81
+    21300164: Balrog_82
+    21300166: Balrog_83
+    21300168: Balrog_84
+    21300170: Balrog_85
+    21300172: Balrog_86
+    21300174: Balrog_87
+    21300176: Balrog_88
+    21300178: Balrog_89
+    21300180: Balrog_90
+    21300182: Balrog_91
+    21300184: Balrog_92
+    21300186: Balrog_93
+    21300188: Balrog_94
+    21300190: Balrog_95
+    21300192: Balrog_96
+    21300194: Balrog_97
+    21300196: Balrog_98
+    21300198: Balrog_99
+    21300200: Balrog_100
+    21300202: Balrog_101
+    21300204: Balrog_102
+    21300206: Balrog_103
+    21300208: Balrog_104
+    21300210: Balrog_105
+    21300212: Balrog_106
+    21300214: Balrog_107
+    21300216: Balrog_108
+    21300218: Balrog_109
+    21300220: Balrog_110
+    21300222: Balrog_111
+    21300224: Balrog_112
+    21300226: Balrog_113
+    21300228: Balrog_114
+    21300230: Balrog_115
+    21300232: Balrog_116
+    21300234: Balrog_117
+    21300236: Balrog_118
+    21300238: Balrog_119
+    21300240: Balrog_120
+    21300242: Balrog_121
+    21300244: Balrog_122
+    21300246: Balrog_123
+    21300248: Balrog_124
+    21300250: Balrog_125
+    21300252: Balrog_126
+    21300254: Balrog_127
+    21300256: Balrog_128
+    21300258: Balrog_129
+    21300260: Balrog_130
+    21300262: Balrog_131
+    21300264: Balrog_132
+    21300266: Balrog_133
+    21300268: Balrog_134
+    21300270: Balrog_135
+    21300272: Balrog_136
+    21300274: Balrog_137
+    21300276: Balrog_138
+    21300278: Balrog_139
+    21300280: Balrog_140
+    21300282: Balrog_141
+    21300284: Balrog_142
+    21300286: Balrog_143
+    21300288: Balrog_144
+    21300290: Balrog_145
+    21300292: Balrog_146
+    21300294: Balrog_147
+    21300296: Balrog_148
+    21300298: Balrog_149
+    21300300: Balrog_150
+    21300302: Balrog_151
+    21300304: Balrog_152
+    21300306: Balrog_153
+    21300308: Balrog_154
+    21300310: Balrog_155
+    21300312: Balrog_156
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Balrog_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2486
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2318
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2318
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2280
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2108
+        width: 181
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2108
+        width: 173
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2108
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2108
+        width: 179
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2108
+        width: 172
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2076
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2076
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1875
+        width: 179
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1875
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1875
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1875
+        width: 249
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_15
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1875
+        width: 245
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1668
+        width: 507
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1668
+        width: 248
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_18
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1668
+        width: 164
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1554
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1553
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1528
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1528
+        width: 109
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1522
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1522
+        width: 251
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_25
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1522
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1364
+        width: 144
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1486
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1475
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1490
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1444
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1488
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1465
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1439
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_34
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1460
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1477
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1437
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1477
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_38
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1477
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_39
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1463
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_40
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1480
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_41
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1469
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1364
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1456
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1443
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1454
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1456
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_47
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1456
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1364
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_49
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1442
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_50
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1422
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_52
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1422
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_53
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1443
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_54
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1436
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_55
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1426
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_56
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1434
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_57
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1427
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_58
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1418
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_59
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1364
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_60
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1418
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_61
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1364
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_62
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1364
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_64
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1405
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_65
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1364
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_66
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1395
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_67
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1394
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_69
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1368
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_70
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1335
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1335
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1157
+        width: 204
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_73
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1157
+        width: 195
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_74
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1157
+        width: 194
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_75
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1157
+        width: 195
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1053
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1053
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1053
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_79
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1034
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_80
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1063
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_81
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1048
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1026
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_83
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1023
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_84
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1021
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1045
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 986
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 986
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 985
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_89
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 854
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_90
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 964
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 946
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 952
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 935
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_94
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 943
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_95
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 948
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_96
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 936
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_97
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 942
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_98
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 886
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_99
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 925
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_100
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 932
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_101
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 930
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_102
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 886
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_103
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 884
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 905
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_105
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 924
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_106
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 921
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_107
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 915
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_108
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 902
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_109
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 910
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_110
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 910
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_111
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 896
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_112
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 859
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_113
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 909
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 884
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_115
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 903
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 902
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_117
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 896
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_118
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 898
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_119
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 898
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 856
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_121
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 876
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_122
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 875
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_123
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 891
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_124
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 873
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_125
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 860
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_126
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 862
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_127
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 887
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 869
+        width: 5
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_129
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 851
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_130
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 860
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_131
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 832
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_132
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 832
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_133
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 662
+        width: 193
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_134
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 662
+        width: 179
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_135
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 662
+        width: 195
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_136
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 662
+        width: 205
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 245
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_138
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 512
+        width: 245
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_139
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 513
+        width: 249
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_140
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 514
+        width: 243
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_141
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 402
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_142
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 399
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_143
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 400
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_144
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_145
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 368
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 199
+        width: 176
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_147
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_148
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 155
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_149
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 7
+        width: 227
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_150
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 243
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_151
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 68
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_152
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_153
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 83
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_154
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 68
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_155
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 53
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balrog_156
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 51
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

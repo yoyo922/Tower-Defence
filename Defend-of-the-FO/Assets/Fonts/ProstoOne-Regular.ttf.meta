@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 896965c15f593a6479ab02d5bf22f8b6
+timeCreated: 1509568641
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Prosto One
+  fontNames:
+  - Prosto One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d21dc54fa671bf4ab5f5a0d5d5b9f59
+timeCreated: 1509568654
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Quantico
+  fontNames:
+  - Quantico
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

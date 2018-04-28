@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f57abe09aef45924b8ddaf30ab2823f2
+timeCreated: 1509568670
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neucha
+  fontNames:
+  - Neucha
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d7dcaf579e56a234682e9b54981e8bb8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

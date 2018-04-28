@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b070c0a87e77edd49a6aa9c3845056f6
+timeCreated: 1509568658
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elsie
+  fontNames:
+  - Elsie
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0ce91c0fcdc17dd459574d6e864f6cdb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f8f0b076fdc4c844da2dab4264e053f7
+timeCreated: 1509568671
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fenix
+  fontNames:
+  - Fenix
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a85ae52d3ae4acd42a9ce335933909d7
+timeCreated: 1509568656
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Denk One
+  fontNames:
+  - Denk One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

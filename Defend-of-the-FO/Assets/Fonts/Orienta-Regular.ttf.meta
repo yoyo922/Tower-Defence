@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1104d5c265aac5b44bca69e8a2394676
+timeCreated: 1509568585
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Orienta
+  fontNames:
+  - Orienta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

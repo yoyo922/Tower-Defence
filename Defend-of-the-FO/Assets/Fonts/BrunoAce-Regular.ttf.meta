@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 91232e0c279ba364994a1713718eb183
+timeCreated: 1509568643
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bruno Ace
+  fontNames:
+  - Bruno Ace
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

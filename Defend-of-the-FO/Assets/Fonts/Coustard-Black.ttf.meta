@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a55bafce92d661e40a78e3b9481d0aa5
+timeCreated: 1509568655
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coustard
+  fontNames:
+  - Coustard
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3636b7c18d0b55a49b04b5b87291c1e0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ebdcd4f5971879a49b33dc9eea85e7bb
+timeCreated: 1509568668
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Frijole
+  fontNames:
+  - Frijole
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

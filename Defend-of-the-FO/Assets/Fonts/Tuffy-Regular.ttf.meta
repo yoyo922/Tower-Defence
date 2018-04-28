@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c967557968eb5534aacb899896f6bdae
+timeCreated: 1509568662
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tuffy
+  fontNames:
+  - Tuffy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7c3b3e11383a332419956700bd965d9b, type: 3}
+  - {fileID: 12800000, guid: c5dbd2789e5177a48b7138f999aea875, type: 3}
+  - {fileID: 12800000, guid: 701f666cd16d3d045b66515255df5b9c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

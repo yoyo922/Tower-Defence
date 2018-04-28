@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e4ada1a75615d694a95ac1add56c5503
+timeCreated: 1509568667
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ruda
+  fontNames:
+  - Ruda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d135774b4fe08eb45b030f1eed312723, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

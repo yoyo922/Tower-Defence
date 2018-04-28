@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 96a8c397c83b85f4c96bf928b91de89c
+timeCreated: 1509568644
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stint Ultra Condensed
+  fontNames:
+  - Stint Ultra Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

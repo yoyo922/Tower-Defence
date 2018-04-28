@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cde9b008306bf8540b90bdf2b91ce852
+timeCreated: 1509568663
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Asap
+  fontNames:
+  - Asap
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64c43306472e69f4ca69e28b5649336b, type: 3}
+  - {fileID: 12800000, guid: 4bc2080cb088f6f49918b0cfe55bec98, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

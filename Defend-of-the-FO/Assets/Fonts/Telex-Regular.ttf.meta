@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 967802eff861b6f42a5b5f6a39c4cc1b
+timeCreated: 1509568643
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Telex
+  fontNames:
+  - Telex
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

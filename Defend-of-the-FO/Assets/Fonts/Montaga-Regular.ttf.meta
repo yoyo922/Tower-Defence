@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5867267d606950e4fb4a1fbf4f9e5363
+timeCreated: 1509568614
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Montaga
+  fontNames:
+  - Montaga
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

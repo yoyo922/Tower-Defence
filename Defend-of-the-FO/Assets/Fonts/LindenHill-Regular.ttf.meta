@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3ae776aeb8ba9724f87a1fc024dc5d23
+timeCreated: 1509568601
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Linden Hill
+  fontNames:
+  - Linden Hill
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 003bc73f526eefe47b5d398f4878d3ff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

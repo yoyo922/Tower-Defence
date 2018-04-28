@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fdaee9cb1b1dfad41bbadfd286384fde
+timeCreated: 1509568673
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tinos
+  fontNames:
+  - Tinos
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 57a9ece7189b4084fa8313adf0846e44, type: 3}
+  - {fileID: 12800000, guid: 026c8f0a14de1d84b95dbea4b11c7e1b, type: 3}
+  - {fileID: 12800000, guid: fc816eda7da26864e86e451f3673d0a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

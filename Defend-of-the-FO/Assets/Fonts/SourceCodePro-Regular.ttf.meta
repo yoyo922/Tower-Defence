@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b15f24b40489253458e91473de5495e4
+timeCreated: 1509568658
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Code Pro
+  fontNames:
+  - Source Code Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 316f5c04636374947aa0e500e0b214c7, type: 3}
+  - {fileID: 12800000, guid: 7b508e1591a284142829df4f46ff1688, type: 3}
+  - {fileID: 12800000, guid: 1f118cba6424f4b4398a425e222a1490, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

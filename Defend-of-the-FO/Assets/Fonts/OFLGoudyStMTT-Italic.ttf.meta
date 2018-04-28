@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c9546d5945cf92b44aa7e62d8740af9d
+timeCreated: 1509568662
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: OFL Sorts Mill Goudy TT
+  fontNames:
+  - OFL Sorts Mill Goudy TT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

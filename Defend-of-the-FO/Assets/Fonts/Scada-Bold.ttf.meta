@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: af6e52d7a14acf6409f040f7ea0545c9
+timeCreated: 1509568658
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scada
+  fontNames:
+  - Scada
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 460b6d11365bec74dbcc25712aa6fcab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

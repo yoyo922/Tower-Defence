@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6a25c6b623abc144085dee10f4cc6431
+timeCreated: 1509568636
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rokkitt
+  fontNames:
+  - Rokkitt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2198fdda45012e84e89b596006d09856, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

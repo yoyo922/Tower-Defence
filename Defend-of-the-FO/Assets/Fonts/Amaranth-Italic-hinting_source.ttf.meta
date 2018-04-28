@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: ce01c6898e2fc104eb6e57071dfe8de4
+timeCreated: 1509568663
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amaranth
+  fontNames:
+  - Amaranth
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4f5af4132a6778d40b516566441bc5d1, type: 3}
+  - {fileID: 12800000, guid: 1d7ad89436873bd42a9c043711bbba45, type: 3}
+  - {fileID: 12800000, guid: 153c4746c46d8854d9e5279529e9d0dd, type: 3}
+  - {fileID: 12800000, guid: b847d7461daa9004a8445f53b6b79e21, type: 3}
+  - {fileID: 12800000, guid: 95699427853ba2b47811b389b5f0265f, type: 3}
+  - {fileID: 12800000, guid: a75548b7c556d534f9e699389a677a44, type: 3}
+  - {fileID: 12800000, guid: 2e830b7ce07dfa24bb2e1cc4ee216c2a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

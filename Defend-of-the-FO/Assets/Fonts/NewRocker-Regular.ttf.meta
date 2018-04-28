@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f3925b4046aa62749b51b99a96638032
+timeCreated: 1509568670
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: New Rocker
+  fontNames:
+  - New Rocker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3af631159eaf8dd4a923d1f871cc8b5f
+timeCreated: 1509568601
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Candal
+  fontNames:
+  - Candal
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

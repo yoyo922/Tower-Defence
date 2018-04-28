@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9ce1462568a28544cb428e8b34a459bc
+timeCreated: 1509568654
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Share-TechExp
+  fontNames:
+  - Share-TechExp
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c707cf05d3ffc9746b349b9c0ac1b425
+timeCreated: 1509568662
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tangerine
+  fontNames:
+  - Tangerine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 67556f420f3c06040b2970e02553eeb6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 41e17bb3d2fe2414ca82a2769e31f964
+timeCreated: 1509568602
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rosarivo
+  fontNames:
+  - Rosarivo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3464d79a0278c194592b743d67f3f50f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

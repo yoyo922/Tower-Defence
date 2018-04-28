@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 732d027108d3b454e8ab1693e965c9ba
+timeCreated: 1509568637
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cabin Condensed
+  fontNames:
+  - Cabin Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4132b231c0ea65347b628f7875c37fa9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

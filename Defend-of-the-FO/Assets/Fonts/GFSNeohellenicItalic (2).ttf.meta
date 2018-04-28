@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: c1c39fab20ae644479f68935e3e34c70
+timeCreated: 1509568661
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GFS Neohellenic
+  fontNames:
+  - GFS Neohellenic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 722158a5cadc0af43a693e35e29b6d12, type: 3}
+  - {fileID: 12800000, guid: c03afe9682238ac43887bac5c557131f, type: 3}
+  - {fileID: 12800000, guid: bc7b04fce8ee4f64aadf1cf95b1b2c28, type: 3}
+  - {fileID: 12800000, guid: 38d7aa7da0db4a942a90f4864d073923, type: 3}
+  - {fileID: 12800000, guid: 82208d0ef4418d8429de961c2e5db5c9, type: 3}
+  - {fileID: 12800000, guid: 7467f3eeaf358e94a95f8ce78278cac5, type: 3}
+  - {fileID: 12800000, guid: 7610465f30d642e4da1074639cf1dd9a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

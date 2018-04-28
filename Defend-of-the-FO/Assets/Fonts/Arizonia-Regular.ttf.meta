@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6347404e27389f247a626c7532ac6e71
+timeCreated: 1509568625
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arizonia
+  fontNames:
+  - Arizonia
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

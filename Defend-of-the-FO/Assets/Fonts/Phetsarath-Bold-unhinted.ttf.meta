@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ce577c0e875ee4e42969d8b0d383b667
+timeCreated: 1509568663
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Phetsarath
+  fontNames:
+  - Phetsarath
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 720a25d9d136f554f821628e22b6375c, type: 3}
+  - {fileID: 12800000, guid: 04d347d9ceec3c447bbeefadbced7e88, type: 3}
+  - {fileID: 12800000, guid: 3aa8557d464fb2d458d5030c3f028128, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

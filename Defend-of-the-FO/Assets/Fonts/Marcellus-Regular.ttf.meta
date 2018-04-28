@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4fefb099dfbea274caac9d722ba5a7ea
+timeCreated: 1509568604
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marcellus
+  fontNames:
+  - Marcellus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

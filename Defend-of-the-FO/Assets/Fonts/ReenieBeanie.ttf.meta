@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9e80c74d313fb914187ef1faa9dd60c2
+timeCreated: 1509568654
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Reenie Beanie
+  fontNames:
+  - Reenie Beanie
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3105960e6319d16449ea41f3b9e5806b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

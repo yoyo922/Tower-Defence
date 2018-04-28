@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e1bb3ac55000f234486df2869c6369a1
+timeCreated: 1509568667
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Simonetta
+  fontNames:
+  - Simonetta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e0483362f47d7304aa86c512a0f2c228, type: 3}
+  - {fileID: 12800000, guid: 0ab1c3883c4805b4b99a566506add7e9, type: 3}
+  - {fileID: 12800000, guid: b7e1d0299cebe7c42ac634178067be4f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

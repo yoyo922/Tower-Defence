@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a11d5a83f375948489c8f76846a239f3
+timeCreated: 1509568655
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amiri
+  fontNames:
+  - Amiri
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b99cd49f3bed6f4dab633919118007a, type: 3}
+  - {fileID: 12800000, guid: 86ffdb6e025edc64d8b286d58c71f224, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

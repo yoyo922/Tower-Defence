@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9261c800282549449b702d866b8ad5e8
+timeCreated: 1509568643
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sintony
+  fontNames:
+  - Sintony
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0235cec6cfc77d644b94087a5fad2c62, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 79e6e6731e723d9419bd8049ea0d9e66
+timeCreated: 1509568639
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Averia Gruesa Libre
+  fontNames:
+  - Averia Gruesa Libre
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d060cfa5d2ae31d47bc466b9149a40b6
+timeCreated: 1509568664
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cagliostro
+  fontNames:
+  - Cagliostro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

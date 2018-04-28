@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5f0cbcad3481a0a438476af9c4ba2b3d
+timeCreated: 1509568624
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Karla Tamil Inclined
+  fontNames:
+  - Karla Tamil Inclined
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

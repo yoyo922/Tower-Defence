@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bf18d63ed4941904181855444c1af552
+timeCreated: 1509568660
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monda
+  fontNames:
+  - Monda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a60421d44a5b032449557f2cf52e0719, type: 3}
+  - {fileID: 12800000, guid: 7f5c5df901c99df4abeb10472c435661, type: 3}
+  - {fileID: 12800000, guid: a647763cd5484c846beff576eb2e066a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

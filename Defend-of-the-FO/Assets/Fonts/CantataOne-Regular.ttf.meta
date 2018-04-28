@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff7a08658d2cc874fbc08bf6f9c90bb5
+timeCreated: 1509568673
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cantata One
+  fontNames:
+  - Cantata One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

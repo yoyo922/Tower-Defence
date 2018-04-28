@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5c0e278cf524dc84e964550d60d8a58c
+timeCreated: 1509568623
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Carrois Gothic
+  fontNames:
+  - Carrois Gothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

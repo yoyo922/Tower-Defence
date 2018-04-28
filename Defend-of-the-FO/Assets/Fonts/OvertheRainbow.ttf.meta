@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 01b715039ed637d44b580817bef68b2c
+timeCreated: 1509568572
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Over the Rainbow
+  fontNames:
+  - Over the Rainbow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

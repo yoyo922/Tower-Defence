@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 500c21e860f3afd47abe325783292acc
+timeCreated: 1509568604
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Inika
+  fontNames:
+  - Inika
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 403d9f5881626f443b6b9ab25d460522, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

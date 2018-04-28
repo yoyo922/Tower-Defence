@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3244fa8b9daa9ba4d8f48f50a44d8ae8
+timeCreated: 1509568600
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Share-ItalicOSF
+  fontNames:
+  - Share-ItalicOSF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

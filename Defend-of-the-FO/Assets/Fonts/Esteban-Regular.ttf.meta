@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f72370c6b6628be43a04274d2ce93cf2
+timeCreated: 1509568671
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Esteban
+  fontNames:
+  - Esteban
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

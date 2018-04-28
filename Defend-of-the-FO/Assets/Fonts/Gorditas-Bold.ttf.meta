@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f8fd625006fe2a042aea083b4917b1bf
+timeCreated: 1509568671
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gorditas
+  fontNames:
+  - Gorditas
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cf3f0e1e31c192f45b76aad19df60766, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

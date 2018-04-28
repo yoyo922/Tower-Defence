@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a8335f7a6bf7cce40bf7b58c3f6b5b26
+timeCreated: 1509568271
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BN 3rd Place
+  fontNames:
+  - BN 3rd Place
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: eda0bbf37fc0b1843a4960c852ff1773
+timeCreated: 1511329020
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Black Wyvern_0
+    21300002: Black Wyvern_1
+    21300004: Black Wyvern_2
+    21300006: Black Wyvern_3
+    21300008: Black Wyvern_4
+    21300010: Black Wyvern_5
+    21300012: Black Wyvern_6
+    21300014: Black Wyvern_7
+    21300016: Black Wyvern_8
+    21300018: Black Wyvern_9
+    21300020: Black Wyvern_10
+    21300022: Black Wyvern_11
+    21300024: Black Wyvern_12
+    21300026: Black Wyvern_13
+    21300028: Black Wyvern_14
+    21300030: Black Wyvern_15
+    21300032: Black Wyvern_16
+    21300034: Black Wyvern_17
+    21300036: Black Wyvern_18
+    21300038: Black Wyvern_19
+    21300040: Black Wyvern_20
+    21300042: Black Wyvern_21
+    21300044: Black Wyvern_22
+    21300046: Black Wyvern_23
+    21300048: Black Wyvern_24
+    21300050: Black Wyvern_25
+    21300052: Black Wyvern_26
+    21300054: Black Wyvern_27
+    21300056: Black Wyvern_28
+    21300058: Black Wyvern_29
+    21300060: Black Wyvern_30
+    21300062: Black Wyvern_31
+    21300064: Black Wyvern_32
+    21300066: Black Wyvern_33
+    21300068: Black Wyvern_34
+    21300070: Black Wyvern_35
+    21300072: Black Wyvern_36
+    21300074: Black Wyvern_37
+    21300076: Black Wyvern_38
+    21300078: Black Wyvern_39
+    21300080: Black Wyvern_40
+    21300082: Black Wyvern_41
+    21300084: Black Wyvern_42
+    21300086: Black Wyvern_43
+    21300088: Black Wyvern_44
+    21300090: Black Wyvern_45
+    21300092: Black Wyvern_46
+    21300094: Black Wyvern_47
+    21300096: Black Wyvern_48
+    21300098: Black Wyvern_49
+    21300100: Black Wyvern_50
+    21300102: Black Wyvern_51
+    21300104: Black Wyvern_52
+    21300106: Black Wyvern_53
+    21300108: Black Wyvern_54
+    21300110: Black Wyvern_55
+    21300112: Black Wyvern_56
+    21300114: Black Wyvern_57
+    21300116: Black Wyvern_58
+    21300118: Black Wyvern_59
+    21300120: Black Wyvern_60
+    21300122: Black Wyvern_61
+    21300124: Black Wyvern_62
+    21300126: Black Wyvern_63
+    21300128: Black Wyvern_64
+    21300130: Black Wyvern_65
+    21300132: Black Wyvern_66
+    21300134: Black Wyvern_67
+    21300136: Black Wyvern_68
+    21300138: Black Wyvern_69
+    21300140: Black Wyvern_70
+    21300142: Black Wyvern_71
+    21300144: Black Wyvern_72
+    21300146: Black Wyvern_73
+    21300148: Black Wyvern_74
+    21300150: Black Wyvern_75
+    21300152: Black Wyvern_76
+    21300154: Black Wyvern_77
+    21300156: Black Wyvern_78
+    21300158: Black Wyvern_79
+    21300160: Black Wyvern_80
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Wyvern_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1628
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1628
+        width: 175
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1628
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1628
+        width: 153
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1628
+        width: 168
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_5
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1628
+        width: 171
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1447
+        width: 164
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1447
+        width: 175
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1447
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1447
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_10
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1447
+        width: 162
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_11
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1447
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1261
+        width: 176
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1310
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1310
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1329
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1317
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1310
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1289
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1085
+        width: 164
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1086
+        width: 203
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1086
+        width: 216
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_22
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1086
+        width: 227
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1086
+        width: 251
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_24
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1086
+        width: 246
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_25
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1086
+        width: 258
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_26
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1086
+        width: 235
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_27
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1208
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_28
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1211
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_29
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1085
+        width: 238
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_30
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1191
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_31
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1086
+        width: 213
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_32
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1086
+        width: 220
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1085
+        width: 205
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_34
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1161
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_35
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1052
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_36
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1042
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_37
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1039
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_38
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1028
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 752
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 749
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 751
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 749
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 749
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 751
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 751
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 752
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_47
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 751
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 752
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_49
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 755
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_50
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 755
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_51
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 753
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_52
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 756
+        width: 74
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_53
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 756
+        width: 78
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_54
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 755
+        width: 165
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_55
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 755
+        width: 172
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_56
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 755
+        width: 222
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_57
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 755
+        width: 218
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_58
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 755
+        width: 206
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_59
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 756
+        width: 72
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_60
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 756
+        width: 66
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 564
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 564
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 371
+        width: 165
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_64
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 371
+        width: 210
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_65
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 371
+        width: 210
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_66
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 371
+        width: 209
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_67
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 371
+        width: 204
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_68
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 470
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_69
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 371
+        width: 219
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_70
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 404
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_71
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 410
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 238
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 238
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 238
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 238
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 20
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_77
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 20
+        width: 175
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_78
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 20
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_79
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 20
+        width: 153
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Wyvern_80
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 20
+        width: 153
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

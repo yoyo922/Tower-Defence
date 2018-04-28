@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2f11f9d0ff70f6448ac660c4235d4511
+timeCreated: 1509568599
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hanuman
+  fontNames:
+  - Hanuman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e14b33b09ebc3e4a8a8dcbc9a18dcff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

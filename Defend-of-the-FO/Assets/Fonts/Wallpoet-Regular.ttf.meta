@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5adcbb0d6f168de409d933edf9a23d08
+timeCreated: 1509568623
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Wallpoet
+  fontNames:
+  - Wallpoet
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

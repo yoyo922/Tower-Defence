@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 57f6a932cc41cda40bf2c3eaa5d05c90
+timeCreated: 1509568614
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Almendra SC
+  fontNames:
+  - Almendra SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0cad2bfbe629b62409247465b88e210d, type: 3}
+  - {fileID: 12800000, guid: 3e9de13e4e0adf74fabb9f7fde4ff780, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

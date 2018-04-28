@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 63a4a7c95b2b9504895781887c1b85fd
+timeCreated: 1509568625
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Poiret One
+  fontNames:
+  - Poiret One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

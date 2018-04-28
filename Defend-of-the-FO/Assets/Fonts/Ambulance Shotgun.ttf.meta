@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0fd6f05fab2484f4889da34761533332
+timeCreated: 1509568271
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ambulance shotgun
+  fontNames:
+  - ambulance shotgun
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

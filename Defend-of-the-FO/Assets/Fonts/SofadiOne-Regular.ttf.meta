@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 255f3923f9709d04e9159f8fd97ce870
+timeCreated: 1509568589
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sofadi One
+  fontNames:
+  - Sofadi One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 19154d4cbe2670f48a8a12f0f9eed21e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

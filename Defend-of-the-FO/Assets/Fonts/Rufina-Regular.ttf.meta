@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 53c1c4294630d044694bbb7eb4f5779d
+timeCreated: 1509568605
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rufina
+  fontNames:
+  - Rufina
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

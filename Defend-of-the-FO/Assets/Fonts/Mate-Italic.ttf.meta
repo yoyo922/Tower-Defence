@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f7dc897e27c45bf4b971d49c12760cad
+timeCreated: 1509568671
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mate
+  fontNames:
+  - Mate
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 87d9f2e039228ce409706bc356a451bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 82573dc5aa8da834ea9eba5c7d94e7fc
+timeCreated: 1509568640
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Leckerli One
+  fontNames:
+  - Leckerli One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dfb5b6cea2cbcfc469feab2f68124a2d
+timeCreated: 1509568666
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arapey
+  fontNames:
+  - Arapey
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82b067d7a2ada624db699a7aa027db49, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

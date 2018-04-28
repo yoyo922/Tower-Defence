@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6e6cba26a2c1afa4ab1334c0d3ca01e6
+timeCreated: 1509568636
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fondamento
+  fontNames:
+  - Fondamento
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2ee265e0b35ecd9458c0c19383b7a0a8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

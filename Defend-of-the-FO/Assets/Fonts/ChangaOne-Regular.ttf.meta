@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bc5d5a7a4205011489c302336bf32056
+timeCreated: 1509568660
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Changa One
+  fontNames:
+  - Changa One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0f9fcac0af8f102419bb536e1cb84f66, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aa144bcabd6e9d242906943e868882da
+timeCreated: 1509568656
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Suwannaphum
+  fontNames:
+  - Suwannaphum
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

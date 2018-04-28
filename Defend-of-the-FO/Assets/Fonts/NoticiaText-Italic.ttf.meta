@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c109ba942f7cdd7429d6a38f133737ea
+timeCreated: 1509568661
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noticia Text
+  fontNames:
+  - Noticia Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ad467dc061c1c4a43bd66f5be6df26a6, type: 3}
+  - {fileID: 12800000, guid: 8aa3764b833dbbf4491830799fd57717, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

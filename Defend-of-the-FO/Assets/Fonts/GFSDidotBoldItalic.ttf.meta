@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 51a1d044a2b247d48a9ec2df190c1b3a
+timeCreated: 1509568605
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GFS Didot
+  fontNames:
+  - GFS Didot
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 08a565356627af244857613c877447b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

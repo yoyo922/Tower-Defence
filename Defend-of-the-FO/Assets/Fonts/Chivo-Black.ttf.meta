@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e5c3e5d1901d30b4da4c38ae99676b8e
+timeCreated: 1509568668
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chivo
+  fontNames:
+  - Chivo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4ccda2d1dc9d5104aa7e59a2587159f6, type: 3}
+  - {fileID: 12800000, guid: 95ca3147dad0b174481ba5108b4964ac, type: 3}
+  - {fileID: 12800000, guid: 63a10fe9788bdbc4a91dd33d01a6dade, type: 3}
+  - {fileID: 12800000, guid: 913d4f6a9a2759448bc20f9f7d6bc591, type: 3}
+  - {fileID: 12800000, guid: 4197700e879026348a8d58b5aa2b9f0f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

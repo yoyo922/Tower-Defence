@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a7cb5794795e17f4e9dc1601a25b4822
+timeCreated: 1509568656
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Allura
+  fontNames:
+  - Allura
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
